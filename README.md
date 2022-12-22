@@ -1,1 +1,1 @@
-# K--nearest-neighbors-for-US-Arrests-data-
+# K-nearest-neighbors-for-US-Arrests-data
